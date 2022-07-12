@@ -1,3 +1,5 @@
+NB This file will look better by going into edit mode:
+
 # D3 Homework - Data Journalism and D3
 
 
